@@ -1,0 +1,389 @@
+,Age,Gender,Marital Status,Occupation,Monthly Income,Educational Qualifications,Family size,latitude,longitude,Residence in busy location,Google Maps Accuracy,Good Road Condition,Delivery person ability,Output
+0,20,Female,Single,Student,No Income,Post Graduate,4,12.9766,77.5993,Agree,Neutral,Neutral,Neutral,Yes
+1,24,Female,Single,Student,Below Rs.10000,Graduate,3,12.977,77.5773,Strongly Agree,Neutral,Disagree,Agree,Yes
+2,22,Male,Single,Student,Below Rs.10000,Post Graduate,3,12.9551,77.6593,Agree,Strongly Agree,Neutral,Agree,Yes
+3,22,Female,Single,Student,No Income,Graduate,6,12.9473,77.5616,Disagree,Agree,Agree,Agree,Yes
+4,22,Male,Single,Student,Below Rs.10000,Post Graduate,4,12.985,77.5533,Agree,Agree,Agree,Agree,Yes
+5,27,Female,Married,Employee,More than 50000,Post Graduate,2,12.9299,77.6848,Neutral,Agree,Neutral,Neutral,Yes
+6,22,Male,Single,Student,No Income,Graduate,3,12.977,77.5773,Agree,Strongly Agree,Disagree,Strongly Agree,Yes
+7,24,Female,Single,Student,No Income,Post Graduate,3,12.9828,77.6131,Agree,Agree,Agree,Disagree,Yes
+8,23,Female,Single,Student,No Income,Post Graduate,2,12.9766,77.5993,Disagree,Disagree,Neutral,Agree,Yes
+9,23,Female,Single,Student,No Income,Post Graduate,4,12.9854,77.7081,Agree,Agree,Agree,Disagree,Yes
+10,22,Female,Single,Student,No Income,Post Graduate,5,12.985,77.5533,Agree,Agree,Strongly Agree,Agree,Yes
+11,23,Male,Single,Student,Below Rs.10000,Post Graduate,2,12.977,77.5773,Strongly Agree,Disagree,Agree,Strongly Agree,Yes
+12,23,Male,Single,Student,No Income,Post Graduate,5,12.8988,77.5764,Agree,Agree,Neutral,Agree,Yes
+13,21,Male,Single,Student,No Income,Graduate,4,12.977,77.5773,Agree,Neutral,Disagree,Agree,Yes
+14,23,Female,Single,Self Employeed,10001 to 25000,Post Graduate,5,12.9438,77.5738,Neutral,Strongly Agree,Strongly Agree,Agree,Yes
+15,24,Female,Single,Student,No Income,Post Graduate,6,12.8893,77.6399,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Yes
+16,28,Female,Single,Employee,25001 to 50000,Post Graduate,2,12.9783,77.6408,Neutral,Neutral,Agree,Agree,Yes
+17,23,Female,Single,Student,No Income,Graduate,3,12.982000000000001,77.6256,Disagree,Agree,Neutral,Neutral,Yes
+18,25,Male,Single,Student,No Income,Graduate,4,12.8988,77.5764,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Yes
+19,21,Female,Single,Student,Below Rs.10000,Post Graduate,1,12.9783,77.6408,Neutral,Disagree,Neutral,Neutral,Yes
+20,24,Male,Single,Student,No Income,Post Graduate,3,12.977,77.5773,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Yes
+21,22,Male,Single,Student,No Income,Post Graduate,4,13.0298,77.6047,Agree,Agree,Strongly Agree,Agree,Yes
+22,22,Female,Single,Student,No Income,Graduate,4,12.9983,77.6409,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Yes
+23,23,Male,Single,Student,No Income,Graduate,4,12.9925,77.5633,Neutral,Neutral,Neutral,Neutral,Yes
+24,21,Male,Single,Student,Below Rs.10000,Post Graduate,3,12.9306,77.5434,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Yes
+25,25,Male,Single,Student,No Income,Post Graduate,3,12.982000000000001,77.6256,Neutral,Neutral,Neutral,Neutral,Yes
+26,22,Female,Single,Student,No Income,Post Graduate,5,12.9353,77.5585,Neutral,Agree,Agree,Agree,Yes
+27,22,Male,Single,Student,No Income,Post Graduate,3,12.9155,77.5135,Disagree,Strongly Agree,Disagree,Strongly Agree,Yes
+28,23,Female,Single,Employee,10001 to 25000,Graduate,3,12.9854,77.7081,Neutral,Neutral,Neutral,Neutral,Yes
+29,22,Male,Single,Student,Below Rs.10000,Post Graduate,4,13.0019,77.5713,Agree,Neutral,Agree,Neutral,Yes
+30,22,Female,Single,Employee,10001 to 25000,Graduate,5,12.9698,77.75,Strongly Agree,Agree,Agree,Disagree,Yes
+31,22,Male,Single,Student,No Income,Post Graduate,4,12.9783,77.6408,Agree,Agree,Agree,Agree,Yes
+32,25,Male,Married,Employee,More than 50000,Ph.D,4,12.9261,77.6221,Agree,Disagree,Agree,Agree,Yes
+33,22,Female,Single,Student,10001 to 25000,Post Graduate,5,12.985,77.5533,Agree,Agree,Agree,Agree,Yes
+34,22,Female,Single,Student,No Income,Post Graduate,2,12.9119,77.6446,Agree,Agree,Disagree,Strongly Agree,Yes
+35,25,Male,Single,Student,10001 to 25000,Post Graduate,3,12.9306,77.5434,Strongly disagree,Strongly Agree,Strongly Agree,Strongly Agree,Yes
+36,25,Male,Single,Student,No Income,Post Graduate,5,12.977,77.5773,Neutral,Agree,Neutral,Agree,No
+37,32,Female,Prefer not to say,House wife,No Income,Graduate,5,12.982000000000001,77.6256,Agree,Agree,Strongly disagree,Neutral,Yes
+38,23,Female,Single,Student,No Income,Post Graduate,3,12.9438,77.5738,Neutral,Agree,Agree,Agree,Yes
+39,23,Female,Single,Student,No Income,Post Graduate,4,12.8988,77.5764,Agree,Neutral,Agree,Neutral,Yes
+40,30,Male,Married,Self Employeed,More than 50000,Uneducated,4,12.9662,77.6068,Agree,Strongly Agree,Strongly Agree,Agree,Yes
+41,23,Male,Single,Student,No Income,Graduate,3,12.9565,77.5484,Agree,Agree,Neutral,Strongly Agree,Yes
+42,23,Male,Single,Student,No Income,Post Graduate,4,12.9925,77.5633,Agree,Agree,Agree,Strongly Agree,Yes
+43,22,Female,Single,Student,No Income,Post Graduate,5,12.985,77.5533,Agree,Strongly Agree,Strongly Agree,Agree,Yes
+44,22,Male,Single,Student,No Income,Graduate,5,12.985,77.5533,Neutral,Agree,Agree,Agree,Yes
+45,27,Female,Married,Self Employeed,10001 to 25000,Post Graduate,2,12.9261,77.6221,Agree,Strongly Agree,Agree,Agree,Yes
+46,24,Female,Single,Student,No Income,Post Graduate,3,12.977,77.5773,Agree,Strongly Agree,Agree,Agree,Yes
+47,23,Male,Single,Student,No Income,Post Graduate,2,12.977,77.5773,Neutral,Disagree,Neutral,Neutral,Yes
+48,23,Female,Single,Student,No Income,Graduate,3,12.982000000000001,77.6256,Disagree,Agree,Neutral,Neutral,Yes
+49,22,Female,Single,Student,10001 to 25000,Post Graduate,5,12.985,77.5533,Agree,Agree,Agree,Agree,Yes
+50,23,Female,Single,Student,No Income,Graduate,5,13.0206,77.6479,Neutral,Neutral,Neutral,Neutral,Yes
+51,23,Female,Single,Student,No Income,Post Graduate,2,12.977,77.5773,Neutral,Neutral,Neutral,Neutral,Yes
+52,24,Male,Single,Student,No Income,Post Graduate,3,12.977,77.5773,Strongly Agree,Agree,Agree,Agree,Yes
+53,25,Male,Single,Student,No Income,Post Graduate,2,12.9635,77.5821,Agree,Agree,Agree,Agree,Yes
+54,22,Male,Single,Student,No Income,Post Graduate,3,12.9306,77.5434,Agree,Agree,Neutral,Agree,Yes
+55,28,Female,Married,Student,No Income,Graduate,2,13.0067,77.545,Disagree,Neutral,Disagree,Strongly Agree,Yes
+56,22,Female,Single,Student,No Income,Post Graduate,1,12.8845,77.6036,Agree,Agree,Strongly Agree,Neutral,Yes
+57,24,Female,Single,Student,No Income,Graduate,3,12.977,77.5773,Agree,Strongly Agree,Agree,Agree,Yes
+58,31,Male,Married,Employee,More than 50000,Ph.D,5,12.9119,77.6446,Agree,Neutral,Disagree,Agree,Yes
+59,25,Male,Single,Student,No Income,Post Graduate,4,13.0067,77.545,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Yes
+60,23,Male,Single,Student,No Income,Post Graduate,5,12.8988,77.5764,Agree,Agree,Agree,Strongly Agree,Yes
+61,22,Male,Single,Student,No Income,Post Graduate,3,12.8845,77.6036,Strongly Agree,Agree,Neutral,Neutral,Yes
+62,23,Male,Single,Student,25001 to 50000,Post Graduate,1,13.0158,77.539,Disagree,Disagree,Neutral,Strongly disagree,Yes
+63,23,Male,Single,Student,No Income,Graduate,4,12.9343,77.6044,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Yes
+64,23,Female,Single,Student,No Income,Post Graduate,2,13.0019,77.5713,Disagree,Strongly disagree,Neutral,Strongly Agree,Yes
+65,25,Male,Single,Student,No Income,Post Graduate,6,13.0012,77.5995,Neutral,Neutral,Neutral,Neutral,Yes
+66,24,Male,Single,Employee,10001 to 25000,Graduate,4,12.9442,77.6076,Strongly disagree,Disagree,Neutral,Disagree,Yes
+67,23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,Neutral,Neutral,Neutral,Neutral,Yes
+68,23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,Neutral,Neutral,Neutral,Neutral,Yes
+69,24,Female,Married,Employee,More than 50000,Ph.D,4,12.9438,77.5738,Agree,Neutral,Agree,Agree,Yes
+70,22,Male,Single,Student,No Income,Graduate,4,12.9889,77.5741,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Yes
+71,24,Female,Single,Student,10001 to 25000,Post Graduate,3,12.9335,77.5691,Strongly Agree,Strongly Agree,Strongly Agree,Agree,No
+72,25,Female,Single,Student,No Income,Post Graduate,3,12.9766,77.5993,Neutral,Disagree,Neutral,Neutral,Yes
+73,23,Male,Single,Student,No Income,Post Graduate,2,12.8845,77.6036,Agree,Agree,Agree,Agree,Yes
+74,26,Male,Single,Student,No Income,Post Graduate,4,13.0019,77.5713,Neutral,Neutral,Strongly Agree,Neutral,Yes
+75,24,Female,Single,Student,25001 to 50000,Post Graduate,3,13.102,77.5864,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Yes
+76,26,Male,Single,Student,No Income,Post Graduate,4,12.9048,77.6821,Agree,Agree,Agree,Strongly Agree,Yes
+77,21,Male,Single,Student,No Income,Graduate,4,12.977,77.5773,Agree,Neutral,Disagree,Agree,Yes
+78,22,Female,Single,Student,No Income,Post Graduate,3,12.977,77.5773,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Yes
+79,24,Male,Single,Student,No Income,Post Graduate,5,12.9337,77.59,Neutral,Neutral,Agree,Agree,Yes
+80,24,Male,Single,Student,10001 to 25000,Post Graduate,4,12.9037,77.5376,Neutral,Strongly disagree,Strongly Agree,Agree,Yes
+81,23,Female,Single,Student,No Income,Post Graduate,3,12.977,77.5773,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Yes
+82,23,Male,Single,Student,No Income,Post Graduate,3,12.9343,77.6044,Neutral,Neutral,Neutral,Neutral,Yes
+83,22,Male,Single,Student,No Income,Post Graduate,3,12.9438,77.5738,Agree,Neutral,Neutral,Neutral,Yes
+84,23,Male,Single,Student,No Income,Post Graduate,3,12.977,77.5773,Agree,Agree,Agree,Disagree,Yes
+85,24,Female,Single,Student,No Income,Post Graduate,4,12.9783,77.6408,Agree,Agree,Neutral,Agree,Yes
+86,24,Male,Single,Student,No Income,Post Graduate,5,12.9337,77.59,Neutral,Neutral,Agree,Agree,Yes
+87,25,Male,Single,Student,No Income,Graduate,1,12.977,77.5773,Neutral,Agree,Strongly disagree,Agree,Yes
+88,25,Male,Single,Student,No Income,Post Graduate,5,12.977,77.5773,Neutral,Agree,Neutral,Agree,No
+89,28,Male,Married,Self Employeed,10001 to 25000,Graduate,2,13.0289,77.54,Agree,Neutral,Neutral,Neutral,No
+90,27,Female,Prefer not to say,Employee,25001 to 50000,Post Graduate,5,13.0289,77.54,Agree,Strongly Agree,Agree,Agree,No
+91,26,Male,Single,Self Employeed,10001 to 25000,Ph.D,1,12.9698,77.75,Agree,Agree,Neutral,Disagree,No
+92,22,Male,Single,Student,No Income,Post Graduate,2,12.977,77.5773,Agree,Strongly Agree,Agree,Agree,Yes
+93,24,Female,Single,Student,No Income,Post Graduate,3,12.977,77.5773,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Yes
+94,23,Male,Single,Student,No Income,Post Graduate,1,12.9561,77.5921,Agree,Disagree,Agree,Agree,Yes
+95,25,Male,Single,Student,No Income,Graduate,1,12.977,77.5773,Neutral,Agree,Strongly disagree,Agree,Yes
+96,23,Female,Single,Student,No Income,Graduate,5,13.0206,77.6479,Neutral,Neutral,Neutral,Neutral,Yes
+97,23,Female,Single,Student,No Income,Graduate,5,13.0206,77.6479,Neutral,Neutral,Neutral,Neutral,Yes
+98,26,Male,Married,Employee,25001 to 50000,Graduate,5,12.9579,77.6309,Agree,Agree,Neutral,Agree,No
+99,32,Female,Married,House wife,No Income,Uneducated,3,13.014000000000001,77.5658,Agree,Neutral,Agree,Neutral,No
+100,24,Female,Single,Student,10001 to 25000,Post Graduate,3,12.9335,77.5691,Strongly Agree,Strongly Agree,Strongly Agree,Agree,No
+101,23,Male,Single,Student,No Income,Post Graduate,2,12.9442,77.6076,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Yes
+102,22,Female,Single,Employee,10001 to 25000,Graduate,3,12.9698,77.75,Strongly Agree,Agree,Neutral,Neutral,Yes
+103,24,Female,Single,Student,No Income,Ph.D,3,12.9438,77.5738,Agree,Neutral,Agree,Agree,Yes
+104,26,Male,Single,Employee,25001 to 50000,Graduate,2,12.9261,77.6221,Agree,Agree,Strongly Agree,Agree,Yes
+105,28,Male,Married,Employee,More than 50000,Graduate,3,12.9698,77.75,Agree,Neutral,Strongly Agree,Neutral,No
+106,26,Male,Single,Employee,More than 50000,Post Graduate,2,12.9698,77.75,Strongly disagree,Agree,Strongly Agree,Agree,No
+107,25,Male,Single,Student,No Income,Post Graduate,1,12.9343,77.6044,Strongly Agree,Neutral,Agree,Neutral,Yes
+108,25,Male,Single,Employee,Below Rs.10000,Graduate,2,12.9698,77.75,Disagree,Neutral,Agree,Neutral,No
+109,18,Male,Single,Student,No Income,Graduate,5,12.9635,77.5821,Agree,Agree,Neutral,Agree,Yes
+110,21,Male,Single,Student,No Income,Post Graduate,4,12.977,77.5773,Agree,Agree,Agree,Strongly Agree,Yes
+111,25,Male,Single,Student,No Income,Post Graduate,1,12.9343,77.6044,Strongly Agree,Neutral,Agree,Neutral,Yes
+112,25,Male,Single,Student,Below Rs.10000,Post Graduate,2,12.9925,77.5633,Strongly disagree,Strongly disagree,Strongly Agree,Strongly disagree,Yes
+113,23,Female,Single,Student,No Income,Graduate,5,13.0206,77.6479,Neutral,Neutral,Neutral,Neutral,Yes
+114,23,Male,Single,Employee,10001 to 25000,Post Graduate,2,12.985,77.5533,Agree,Neutral,Agree,Neutral,Yes
+115,25,Female,Married,Employee,25001 to 50000,Graduate,4,12.9551,77.6593,Agree,Strongly Agree,Agree,Agree,No
+116,31,Female,Married,House wife,No Income,School,5,13.0289,77.54,Agree,Neutral,Agree,Agree,Yes
+117,24,Male,Prefer not to say,Self Employeed,More than 50000,Ph.D,2,13.0138,77.5877,Disagree,Strongly disagree,Strongly disagree,Agree,No
+118,32,Female,Married,Employee,25001 to 50000,Graduate,5,12.9261,77.6221,Agree,Agree,Agree,Disagree,Yes
+119,25,Male,Single,Employee,25001 to 50000,Graduate,3,12.9766,77.5993,Agree,Strongly Agree,Strongly Agree,Agree,Yes
+120,27,Female,Married,Self Employeed,More than 50000,Graduate,5,12.9766,77.5993,Agree,Strongly Agree,Strongly Agree,Strongly Agree,No
+121,26,Male,Single,Self Employeed,25001 to 50000,Graduate,3,12.9766,77.5993,Agree,Agree,Strongly Agree,Strongly Agree,Yes
+122,26,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,12.9635,77.5821,Agree,Agree,Neutral,Agree,Yes
+123,32,Male,Married,Employee,More than 50000,Ph.D,5,12.9635,77.5821,Agree,Strongly Agree,Agree,Agree,Yes
+124,24,Male,Married,Self Employeed,More than 50000,Ph.D,6,12.9635,77.5821,Disagree,Agree,Strongly Agree,Strongly Agree,No
+125,27,Female,Married,Self Employeed,25001 to 50000,Graduate,3,12.9635,77.5821,Agree,Strongly Agree,Agree,Agree,Yes
+126,23,Male,Single,Student,No Income,Post Graduate,3,12.977,77.5773,Disagree,Agree,Agree,Agree,Yes
+127,25,Male,Single,Student,No Income,Post Graduate,4,12.977,77.5773,Strongly Agree,Agree,Agree,Strongly Agree,Yes
+128,23,Male,Single,Student,No Income,Post Graduate,3,12.977,77.5773,Disagree,Agree,Agree,Agree,Yes
+129,23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,Neutral,Neutral,Neutral,Neutral,Yes
+130,28,Male,Married,Employee,More than 50000,Post Graduate,3,13.0019,77.5713,Agree,Strongly Agree,Strongly Agree,Agree,Yes
+131,32,Female,Married,Employee,More than 50000,Graduate,1,13.0019,77.5713,Agree,Strongly Agree,Strongly Agree,Disagree,No
+132,23,Male,Single,Student,No Income,Post Graduate,2,13.0019,77.5713,Agree,Agree,Strongly Agree,Disagree,Yes
+133,19,Male,Single,Student,No Income,Graduate,2,13.0019,77.5713,Agree,Strongly Agree,Agree,Agree,No
+134,19,Female,Single,Student,No Income,Graduate,4,12.9537,77.6176,Disagree,Agree,Agree,Agree,Yes
+135,27,Female,Married,Employee,25001 to 50000,Post Graduate,2,12.9698,77.75,Neutral,Disagree,Disagree,Neutral,No
+136,25,Male,Single,Self Employeed,25001 to 50000,Graduate,3,12.998,77.6227,Agree,Neutral,Agree,Agree,Yes
+137,33,Male,Married,Employee,More than 50000,Ph.D,5,12.998,77.6227,Agree,Neutral,Agree,Agree,No
+138,26,Female,Single,Employee,More than 50000,Graduate,3,12.998,77.6227,Agree,Strongly Agree,Agree,Agree,Yes
+139,22,Female,Single,Student,Below Rs.10000,Post Graduate,4,12.9343,77.6044,Disagree,Neutral,Disagree,Disagree,Yes
+140,23,Male,Single,Student,No Income,Post Graduate,3,13.102,77.5864,Agree,Strongly Agree,Strongly Agree,Agree,No
+141,22,Female,Single,Student,No Income,Graduate,3,13.0158,77.539,Neutral,Agree,Agree,Agree,Yes
+142,25,Male,Married,Employee,25001 to 50000,Graduate,2,12.998,77.6227,Agree,Strongly Agree,Strongly Agree,Agree,Yes
+143,30,Female,Married,House wife,No Income,School,5,12.998,77.6227,Agree,Agree,Strongly Agree,Strongly Agree,Yes
+144,24,Male,Single,Student,No Income,Post Graduate,3,13.0138,77.5877,Agree,Strongly Agree,Agree,Agree,No
+145,25,Male,Single,Employee,10001 to 25000,Post Graduate,3,13.0138,77.5877,Agree,Strongly Agree,Strongly Agree,Agree,Yes
+146,23,Male,Single,Student,More than 50000,Post Graduate,3,12.977,77.5773,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Yes
+147,24,Female,Single,Student,No Income,Post Graduate,4,13.0496,77.4941,Agree,Neutral,Neutral,Neutral,Yes
+148,32,Male,Married,Employee,10001 to 25000,Graduate,4,12.9783,77.6408,Neutral,Neutral,Agree,Agree,Yes
+149,22,Male,Single,Student,No Income,Post Graduate,4,12.9889,77.5741,Disagree,Neutral,Disagree,Neutral,Yes
+150,23,Male,Single,Student,More than 50000,Post Graduate,3,12.977,77.5773,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Yes
+151,23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,Neutral,Neutral,Neutral,Neutral,Yes
+152,20,Male,Single,Student,No Income,Graduate,2,12.9579,77.6309,Agree,Strongly Agree,Agree,Strongly Agree,Yes
+153,21,Male,Single,Student,No Income,Graduate,2,12.9579,77.6309,Agree,Strongly Agree,Agree,Agree,Yes
+154,24,Female,Married,Self Employeed,10001 to 25000,Graduate,5,12.9579,77.6309,Agree,Strongly Agree,Agree,Agree,Yes
+155,23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,Neutral,Neutral,Neutral,Neutral,Yes
+156,25,Male,Single,Employee,25001 to 50000,Post Graduate,3,12.985,77.5533,Agree,Strongly Agree,Agree,Neutral,Yes
+157,32,Female,Married,House wife,No Income,Graduate,3,12.985,77.5533,Agree,Strongly Agree,Agree,Agree,Yes
+158,27,Male,Married,Employee,More than 50000,Ph.D,5,12.985,77.5533,Agree,Strongly Agree,Agree,Strongly Agree,No
+159,20,Female,Single,Student,No Income,Graduate,2,12.9337,77.59,Agree,Agree,Strongly Agree,Strongly Agree,Yes
+160,21,Male,Single,Student,No Income,Graduate,2,12.9337,77.59,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Yes
+161,26,Male,Single,Employee,More than 50000,Post Graduate,3,12.9337,77.59,Agree,Strongly Agree,Strongly Agree,Strongly Agree,No
+162,25,Male,Single,Employee,10001 to 25000,Graduate,4,13.0166,77.6804,Agree,Agree,Agree,Agree,Yes
+163,26,Male,Single,Employee,25001 to 50000,Post Graduate,3,13.014000000000001,77.5658,Agree,Strongly Agree,Agree,Agree,Yes
+164,26,Female,Married,Employee,25001 to 50000,Graduate,3,13.014000000000001,77.5658,Agree,Strongly Agree,Agree,Agree,Yes
+165,27,Male,Single,Employee,More than 50000,Ph.D,4,13.0503,77.5529,Agree,Strongly Agree,Agree,Strongly Agree,No
+166,27,Female,Single,Student,No Income,Ph.D,5,13.0503,77.5529,Disagree,Strongly Agree,Agree,Neutral,No
+167,24,Female,Single,Student,No Income,Post Graduate,5,12.9883,77.5987,Strongly Agree,Neutral,Disagree,Agree,Yes
+168,25,Male,Married,Self Employeed,More than 50000,School,2,13.0626,77.5284,Agree,Neutral,Disagree,Disagree,Yes
+169,20,Male,Single,Student,No Income,Graduate,2,13.0626,77.5284,Agree,Strongly Agree,Agree,Agree,No
+170,22,Male,Single,Student,No Income,Post Graduate,1,13.0626,77.5284,Agree,Strongly Agree,Agree,Agree,Yes
+171,26,Female,Married,Student,Below Rs.10000,Ph.D,3,13.0166,77.6804,Agree,Strongly Agree,Agree,Agree,Yes
+172,27,Male,Prefer not to say,Employee,25001 to 50000,Post Graduate,1,13.0166,77.6804,Agree,Strongly Agree,Agree,Strongly Agree,Yes
+173,25,Female,Single,Student,No Income,Post Graduate,3,12.9551,77.6593,Disagree,Disagree,Neutral,Neutral,Yes
+174,24,Male,Single,Employee,Below Rs.10000,Graduate,2,12.9551,77.6593,Agree,Strongly Agree,Agree,Strongly Agree,Yes
+175,23,Female,Single,Employee,10001 to 25000,Graduate,6,12.9551,77.6593,Neutral,Disagree,Disagree,Agree,Yes
+176,22,Male,Single,Student,No Income,Graduate,2,12.957,77.5637,Agree,Strongly Agree,Neutral,Agree,No
+177,26,Male,Married,Self Employeed,More than 50000,Post Graduate,3,12.957,77.5637,Agree,Agree,Strongly Agree,Strongly Agree,No
+178,26,Male,Single,Employee,Below Rs.10000,Post Graduate,1,12.957,77.5637,Agree,Agree,Agree,Neutral,Yes
+179,25,Female,Married,Self Employeed,25001 to 50000,Post Graduate,3,12.957,77.5637,Agree,Agree,Neutral,Agree,No
+180,29,Female,Married,Employee,More than 50000,Graduate,3,12.957,77.5637,Agree,Strongly Agree,Agree,Agree,No
+181,23,Male,Single,Student,Below Rs.10000,Graduate,3,12.8652,77.524,Agree,Agree,Neutral,Agree,Yes
+182,22,Female,Single,Employee,25001 to 50000,Graduate,4,12.9698,77.75,Strongly Agree,Agree,Agree,Strongly disagree,Yes
+183,22,Male,Single,Student,No Income,Graduate,2,12.9889,77.5741,Agree,Neutral,Agree,Agree,No
+184,32,Female,Married,House wife,No Income,School,5,12.9889,77.5741,Agree,Disagree,Neutral,Neutral,Yes
+185,28,Male,Married,Employee,More than 50000,Post Graduate,1,12.9925,77.5633,Agree,Strongly Agree,Agree,Agree,Yes
+186,22,Male,Single,Student,No Income,Post Graduate,2,12.977,77.5773,Agree,Agree,Agree,Agree,Yes
+187,25,Male,Single,Employee,10001 to 25000,Graduate,2,12.9757,77.5586,Agree,Strongly Agree,Agree,Strongly Agree,Yes
+188,26,Female,Married,Employee,25001 to 50000,Post Graduate,2,12.9757,77.5586,Agree,Agree,Strongly Agree,Neutral,No
+189,31,Male,Married,Self Employeed,More than 50000,School,6,13.0487,77.5923,Agree,Agree,Strongly Agree,Agree,Yes
+190,24,Male,Single,Student,No Income,Post Graduate,3,13.0487,77.5923,Neutral,Disagree,Neutral,Disagree,No
+191,24,Male,Single,Employee,25001 to 50000,Post Graduate,2,12.9662,77.6068,Disagree,Disagree,Neutral,Agree,Yes
+192,31,Female,Married,Employee,More than 50000,Ph.D,5,12.9662,77.6068,Agree,Neutral,Neutral,Disagree,Yes
+193,26,Male,Single,Employee,25001 to 50000,Graduate,2,12.9343,77.6044,Agree,Agree,Strongly Agree,Agree,Yes
+194,24,Female,Married,Self Employeed,More than 50000,Graduate,2,12.9343,77.6044,Agree,Agree,Strongly Agree,Agree,Yes
+195,22,Female,Single,Student,No Income,Graduate,3,12.9343,77.6044,Agree,Strongly Agree,Agree,Agree,Yes
+196,19,Male,Single,Student,No Income,Graduate,6,12.9442,77.6076,Agree,Agree,Strongly Agree,Strongly Agree,Yes
+197,25,Male,Married,Employee,More than 50000,Post Graduate,6,12.9442,77.6076,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Yes
+198,23,Female,Married,House wife,No Income,School,6,12.9442,77.6076,Agree,Agree,Strongly Agree,Neutral,Yes
+199,23,Female,Single,Student,No Income,Graduate,2,13.0298,77.6047,Agree,Strongly Agree,Agree,Agree,No
+200,23,Male,Single,Student,No Income,Post Graduate,2,12.9261,77.6221,Agree,Strongly Agree,Agree,Agree,Yes
+201,24,Male,Single,Student,No Income,Post Graduate,5,12.9621,77.5376,Agree,Strongly Agree,Strongly Agree,Agree,Yes
+202,22,Female,Single,Employee,25001 to 50000,Graduate,4,12.8845,77.6036,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Yes
+203,26,Male,Married,Employee,More than 50000,Graduate,4,12.9048,77.6821,Agree,Strongly Agree,Agree,Strongly Agree,Yes
+204,25,Female,Single,Student,No Income,Ph.D,3,12.9048,77.6821,Agree,Strongly Agree,Agree,Agree,Yes
+205,20,Male,Single,Student,No Income,Graduate,2,12.9261,77.6221,Agree,Strongly Agree,Agree,Disagree,Yes
+206,29,Male,Married,Employee,25001 to 50000,Graduate,4,12.9261,77.6221,Agree,Agree,Strongly Agree,Agree,No
+207,23,Female,Single,Student,No Income,Graduate,1,12.977,77.5773,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Yes
+208,25,Male,Single,Self Employeed,More than 50000,Graduate,2,12.9783,77.6408,Agree,Strongly Agree,Agree,Agree,Yes
+209,29,Female,Married,Employee,25001 to 50000,Graduate,4,12.9783,77.6408,Agree,Agree,Disagree,Neutral,No
+210,27,Male,Married,Self Employeed,25001 to 50000,Graduate,6,12.9217,77.5936,Agree,Agree,Agree,Strongly Agree,No
+211,25,Male,Single,Self Employeed,10001 to 25000,Graduate,3,13.0206,77.6479,Agree,Strongly Agree,Agree,Agree,Yes
+212,21,Male,Single,Student,No Income,Graduate,2,13.0012,77.5995,Agree,Strongly Agree,Agree,Strongly Agree,No
+213,23,Male,Single,Student,No Income,Graduate,3,13.0223,77.7132,Agree,Neutral,Agree,Neutral,Yes
+214,24,Female,Single,Employee,10001 to 25000,Post Graduate,4,12.9337,77.59,Neutral,Neutral,Agree,Agree,Yes
+215,32,Male,Married,Self Employeed,10001 to 25000,School,3,12.982000000000001,77.6256,Neutral,Neutral,Neutral,Neutral,Yes
+216,28,Male,Married,Employee,25001 to 50000,Post Graduate,5,13.0262,77.62,Agree,Agree,Disagree,Neutral,Yes
+217,26,Male,Single,Employee,10001 to 25000,Graduate,2,12.9217,77.5936,Agree,Agree,Strongly Agree,Agree,No
+218,31,Female,Married,House wife,No Income,Graduate,5,13.0078,77.5577,Agree,Agree,Agree,Disagree,Yes
+219,27,Female,Married,Self Employeed,25001 to 50000,Graduate,3,13.0078,77.5577,Agree,Neutral,Agree,Neutral,Yes
+220,21,Female,Single,Student,No Income,Post Graduate,1,12.9217,77.5936,Neutral,Neutral,Neutral,Neutral,Yes
+221,23,Female,Single,Student,No Income,Graduate,2,12.9105,77.4842,Disagree,Disagree,Disagree,Agree,No
+222,26,Male,Married,Employee,10001 to 25000,Graduate,4,12.9105,77.4842,Disagree,Disagree,Agree,Neutral,No
+223,32,Male,Married,Employee,More than 50000,Graduate,5,12.9037,77.5376,Agree,Neutral,Neutral,Neutral,Yes
+224,25,Female,Married,Student,No Income,Post Graduate,2,12.8834,77.5486,Agree,Neutral,Agree,Neutral,Yes
+225,28,Male,Single,Self Employeed,10001 to 25000,Post Graduate,2,12.9149,77.5635,Agree,Neutral,Neutral,Neutral,Yes
+226,21,Female,Single,Student,No Income,Post Graduate,3,12.9149,77.5635,Agree,Strongly Agree,Agree,Agree,Yes
+227,24,Male,Single,Student,No Income,Post Graduate,2,12.9706,77.6529,Agree,Neutral,Agree,Disagree,Yes
+228,26,Female,Married,Self Employeed,10001 to 25000,Graduate,5,12.9706,77.6529,Agree,Agree,Neutral,Disagree,No
+229,32,Male,Married,Employee,25001 to 50000,Graduate,3,12.9706,77.6529,Agree,Neutral,Agree,Strongly Agree,Yes
+230,29,Male,Single,Self Employeed,More than 50000,Graduate,6,12.8845,77.6036,Agree,Neutral,Agree,Agree,Yes
+231,21,Male,Single,Student,No Income,Graduate,5,12.9783,77.6408,Agree,Neutral,Agree,Strongly Agree,Yes
+232,24,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,13.0103,77.5796,Agree,Neutral,Neutral,Neutral,No
+233,26,Male,Prefer not to say,Self Employeed,More than 50000,Post Graduate,2,13.0103,77.5796,Agree,Agree,Strongly Agree,Agree,Yes
+234,25,Male,Married,Employee,More than 50000,Ph.D,3,12.9306,77.5434,Agree,Neutral,Agree,Disagree,Yes
+235,29,Male,Single,Employee,25001 to 50000,Graduate,3,13.0641,77.5931,Neutral,Agree,Agree,Strongly Agree,No
+236,22,Male,Single,Student,No Income,Graduate,3,13.0158,77.539,Agree,Strongly Agree,Agree,Agree,Yes
+237,24,Male,Single,Student,No Income,Graduate,2,12.9561,77.5921,Agree,Agree,Agree,Neutral,Yes
+238,27,Male,Married,Employee,25001 to 50000,Graduate,2,12.8845,77.6036,Agree,Strongly Agree,Agree,Strongly Agree,Yes
+239,23,Female,Single,Student,No Income,Post Graduate,3,12.9369,77.6407,Agree,Agree,Strongly Agree,Strongly Agree,No
+240,32,Male,Married,Employee,More than 50000,Post Graduate,6,12.9369,77.6407,Agree,Neutral,Agree,Strongly Agree,Yes
+241,22,Female,Single,Student,No Income,Graduate,2,12.9369,77.6407,Agree,Agree,Strongly Agree,Disagree,Yes
+242,28,Male,Married,Employee,25001 to 50000,Graduate,3,12.9369,77.6407,Agree,Strongly Agree,Agree,Strongly Agree,Yes
+243,23,Female,Single,Student,No Income,Post Graduate,2,13.0158,77.539,Agree,Agree,Strongly Agree,Agree,Yes
+244,30,Male,Married,Self Employeed,More than 50000,Graduate,1,13.0809,77.5565,Agree,Agree,Strongly Agree,Agree,No
+245,21,Male,Single,Student,No Income,Graduate,3,13.0641,77.5931,Agree,Agree,Strongly Agree,Agree,Yes
+246,26,Female,Married,Employee,Below Rs.10000,Graduate,6,12.9859,77.6713,Agree,Neutral,Agree,Agree,No
+247,25,Male,Single,Self Employeed,More than 50000,School,3,12.9859,77.6713,Agree,Disagree,Disagree,Disagree,Yes
+248,31,Male,Prefer not to say,Employee,Below Rs.10000,Graduate,1,12.9866,77.4904,Agree,Disagree,Disagree,Agree,No
+249,23,Female,Single,Employee,25001 to 50000,Post Graduate,2,12.9847,77.5491,Agree,Strongly Agree,Strongly Agree,Agree,Yes
+250,29,Female,Married,Employee,25001 to 50000,Ph.D,3,12.9847,77.5491,Agree,Strongly Agree,Agree,Strongly Agree,Yes
+251,21,Male,Single,Student,No Income,Graduate,6,12.9847,77.5491,Agree,Strongly Agree,Agree,Strongly Agree,Yes
+252,20,Male,Single,Student,No Income,Graduate,3,12.9299,77.6848,Agree,Strongly Agree,Agree,Strongly Agree,Yes
+253,22,Male,Single,Employee,10001 to 25000,Graduate,2,12.9299,77.6848,Agree,Agree,Strongly Agree,Disagree,Yes
+254,30,Female,Married,House wife,No Income,School,6,12.9828,77.6131,Disagree,Disagree,Disagree,Strongly disagree,No
+255,27,Male,Married,Self Employeed,More than 50000,Graduate,3,12.989,77.5332,Disagree,Agree,Neutral,Agree,Yes
+256,23,Male,Single,Student,No Income,Post Graduate,2,12.977,77.5773,Agree,Strongly Agree,Disagree,Strongly Agree,No
+257,30,Male,Married,Self Employeed,25001 to 50000,School,6,12.9251,77.4992,Agree,Neutral,Agree,Agree,No
+258,23,Male,Single,Student,No Income,Post Graduate,3,12.9967,77.7582,Agree,Strongly Agree,Agree,Agree,Yes
+259,28,Female,Married,Employee,25001 to 50000,Post Graduate,6,12.9967,77.7582,Agree,Neutral,Disagree,Agree,No
+260,30,Male,Married,Self Employeed,More than 50000,Graduate,6,12.9967,77.7582,Agree,Agree,Strongly Agree,Agree,Yes
+261,24,Female,Married,Employee,25001 to 50000,Post Graduate,2,12.957,77.5637,Disagree,Disagree,Disagree,Disagree,Yes
+262,21,Male,Single,Student,No Income,Graduate,2,12.957,77.5637,Disagree,Agree,Disagree,Disagree,No
+263,23,Female,Prefer not to say,Employee,10001 to 25000,Graduate,3,12.9889,77.5741,Agree,Agree,Strongly Agree,Strongly Agree,No
+264,25,Male,Married,Self Employeed,More than 50000,Post Graduate,4,13.0206,77.6479,Agree,Agree,Strongly Agree,Strongly Agree,Yes
+265,24,Female,Single,Employee,25001 to 50000,Graduate,2,12.8893,77.6399,Agree,Agree,Strongly Agree,Agree,Yes
+266,26,Male,Married,Employee,10001 to 25000,Graduate,3,12.8893,77.6399,Agree,Agree,Strongly Agree,Disagree,No
+267,25,Female,Single,Employee,25001 to 50000,Post Graduate,2,12.9967,77.7582,Agree,Agree,Strongly Agree,Agree,Yes
+268,22,Male,Single,Student,25001 to 50000,Graduate,3,12.9783,77.6408,Agree,Agree,Strongly Agree,Neutral,Yes
+269,26,Female,Single,Employee,25001 to 50000,Post Graduate,2,12.9783,77.6408,Agree,Agree,Agree,Disagree,Yes
+270,23,Male,Single,Employee,10001 to 25000,Graduate,2,12.9925,77.5633,Agree,Neutral,Agree,Disagree,Yes
+271,21,Female,Single,Employee,Below Rs.10000,Graduate,2,12.9925,77.5633,Agree,Neutral,Agree,Strongly Agree,No
+272,25,Male,Married,Self Employeed,25001 to 50000,Graduate,3,12.9561,77.5921,Agree,Agree,Strongly Agree,Strongly Agree,Yes
+273,24,Female,Married,Employee,10001 to 25000,Post Graduate,2,12.9561,77.5921,Agree,Strongly Agree,Agree,Strongly Agree,Yes
+274,22,Male,Married,Student,No Income,Graduate,2,13.0734,77.5464,Agree,Strongly Agree,Agree,Agree,Yes
+275,23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,Neutral,Neutral,Neutral,Neutral,Yes
+276,24,Male,Married,Employee,More than 50000,Post Graduate,3,12.9515,77.4921,Agree,Strongly Agree,Agree,Agree,Yes
+277,22,Female,Single,Student,No Income,Graduate,2,12.9515,77.4921,Agree,Agree,Strongly Agree,Strongly Agree,Yes
+278,30,Male,Married,Employee,More than 50000,Graduate,5,12.9719,77.5128,Agree,Strongly Agree,Agree,Agree,No
+279,23,Female,Prefer not to say,Employee,10001 to 25000,Graduate,4,12.9048,77.6821,Agree,Agree,Disagree,Disagree,Yes
+280,19,Male,Single,Student,No Income,Graduate,6,12.9048,77.6821,Agree,Strongly Agree,Agree,Strongly Agree,Yes
+281,21,Female,Single,Student,No Income,Graduate,2,13.0103,77.5796,Disagree,Disagree,Disagree,Disagree,Yes
+282,23,Male,Single,Student,No Income,Graduate,4,13.0103,77.5796,Disagree,Disagree,Disagree,Neutral,Yes
+283,24,Female,Single,Employee,25001 to 50000,Graduate,3,12.8893,77.6399,Agree,Agree,Strongly Agree,Strongly Agree,Yes
+284,26,Female,Married,Employee,10001 to 25000,Post Graduate,2,12.9828,77.6131,Agree,Agree,Neutral,Agree,No
+285,26,Female,Single,Student,No Income,Ph.D,2,12.9757,77.5586,Agree,Strongly Agree,Agree,Neutral,Yes
+286,25,Female,Single,Student,10001 to 25000,Graduate,2,12.9757,77.5586,Agree,Strongly Agree,Agree,Agree,Yes
+287,28,Female,Married,Employee,25001 to 50000,Graduate,5,12.9757,77.5586,Agree,Strongly Agree,Agree,Disagree,No
+288,25,Female,Single,Student,No Income,Post Graduate,3,13.0734,77.5464,Agree,Strongly Agree,Agree,Agree,Yes
+289,20,Female,Single,Student,No Income,Graduate,2,13.0734,77.5464,Agree,Strongly Agree,Agree,Strongly disagree,Yes
+290,27,Female,Married,Self Employeed,More than 50000,Graduate,6,13.0734,77.5464,Disagree,Strongly Agree,Disagree,Disagree,No
+291,25,Female,Married,Employee,25001 to 50000,Graduate,3,13.0626,77.5284,Agree,Agree,Strongly Agree,Strongly Agree,No
+292,24,Female,Single,Student,No Income,Post Graduate,5,13.0626,77.5284,Agree,Disagree,Disagree,Agree,No
+293,25,Female,Married,Employee,More than 50000,Graduate,1,12.977,77.5773,Agree,Agree,Agree,Neutral,No
+294,25,Female,Prefer not to say,Employee,25001 to 50000,Post Graduate,3,12.998,77.6227,Agree,Agree,Strongly Agree,Agree,No
+295,24,Female,Married,Student,Below Rs.10000,Ph.D,5,13.0626,77.5284,Disagree,Disagree,Disagree,Neutral,Yes
+296,24,Male,Single,Student,No Income,Post Graduate,3,13.0626,77.5284,Disagree,Neutral,Agree,Disagree,Yes
+297,22,Male,Single,Employee,10001 to 25000,Graduate,1,13.0138,77.5877,Disagree,Disagree,Disagree,Disagree,Yes
+298,28,Male,Single,Employee,25001 to 50000,Post Graduate,2,13.0138,77.5877,Strongly disagree,Agree,Disagree,Disagree,No
+299,25,Female,Single,Employee,More than 50000,Post Graduate,6,13.014000000000001,77.5658,Disagree,Disagree,Neutral,Agree,No
+300,22,Male,Single,Student,Below Rs.10000,Post Graduate,3,12.9551,77.6593,Agree,Strongly Agree,Neutral,Agree,Yes
+301,22,Female,Single,Student,No Income,Graduate,6,12.9473,77.5616,Disagree,Agree,Agree,Agree,Yes
+302,22,Male,Single,Student,Below Rs.10000,Post Graduate,4,12.985,77.5533,Agree,Agree,Agree,Agree,Yes
+303,27,Female,Married,Employee,More than 50000,Post Graduate,2,12.9299,77.6848,Neutral,Agree,Neutral,Neutral,Yes
+304,22,Male,Single,Student,No Income,Graduate,3,12.977,77.5773,Agree,Strongly Agree,Disagree,Strongly Agree,Yes
+305,24,Female,Single,Student,No Income,Post Graduate,3,12.9828,77.6131,Agree,Agree,Agree,Disagree,Yes
+306,23,Female,Single,Student,No Income,Post Graduate,2,12.9766,77.5993,Disagree,Disagree,Neutral,Agree,Yes
+307,23,Female,Single,Student,No Income,Post Graduate,4,12.9854,77.7081,Agree,Agree,Agree,Disagree,Yes
+308,22,Female,Single,Student,No Income,Post Graduate,5,12.985,77.5533,Agree,Agree,Strongly Agree,Agree,Yes
+309,23,Male,Single,Student,Below Rs.10000,Post Graduate,2,12.977,77.5773,Strongly Agree,Disagree,Agree,Strongly Agree,Yes
+310,32,Male,Married,Employee,More than 50000,Graduate,5,12.9037,77.5376,Agree,Neutral,Neutral,Neutral,Yes
+311,25,Female,Married,Student,No Income,Post Graduate,2,12.8834,77.5486,Agree,Neutral,Agree,Neutral,Yes
+312,28,Male,Single,Self Employeed,10001 to 25000,Post Graduate,2,12.9149,77.5635,Agree,Neutral,Neutral,Neutral,Yes
+313,21,Female,Single,Student,No Income,Post Graduate,3,12.9149,77.5635,Agree,Strongly Agree,Agree,Agree,Yes
+314,24,Male,Single,Student,No Income,Post Graduate,2,12.9706,77.6529,Agree,Neutral,Agree,Disagree,Yes
+315,26,Female,Married,Self Employeed,10001 to 25000,Graduate,5,12.9706,77.6529,Agree,Agree,Neutral,Disagree,No
+316,32,Male,Married,Employee,25001 to 50000,Graduate,3,12.9706,77.6529,Agree,Neutral,Agree,Strongly Agree,Yes
+317,29,Male,Single,Self Employeed,More than 50000,Graduate,6,12.8845,77.6036,Agree,Neutral,Agree,Agree,Yes
+318,21,Male,Single,Student,No Income,Graduate,5,12.9783,77.6408,Agree,Neutral,Agree,Strongly Agree,Yes
+319,24,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,13.0103,77.5796,Agree,Neutral,Neutral,Neutral,No
+320,26,Male,Prefer not to say,Self Employeed,More than 50000,Post Graduate,2,13.0103,77.5796,Agree,Agree,Strongly Agree,Agree,Yes
+321,21,Male,Married,Employee,More than 50000,Ph.D,3,12.9306,77.5434,Agree,Neutral,Agree,Disagree,Yes
+322,29,Male,Single,Employee,25001 to 50000,Graduate,3,13.0641,77.5931,Neutral,Agree,Agree,Strongly Agree,No
+323,22,Male,Single,Student,No Income,Graduate,3,13.0158,77.539,Agree,Strongly Agree,Agree,Agree,Yes
+324,24,Male,Single,Student,No Income,Graduate,2,12.9561,77.5921,Agree,Agree,Agree,Neutral,Yes
+325,27,Male,Married,Employee,25001 to 50000,Graduate,2,12.8845,77.6036,Agree,Strongly Agree,Agree,Strongly Agree,Yes
+326,23,Female,Single,Student,No Income,Post Graduate,3,12.9369,77.6407,Agree,Agree,Strongly Agree,Strongly Agree,No
+327,32,Male,Married,Employee,More than 50000,Post Graduate,6,12.9369,77.6407,Agree,Neutral,Agree,Strongly Agree,Yes
+328,22,Female,Single,Student,No Income,Graduate,2,12.9369,77.6407,Agree,Agree,Strongly Agree,Disagree,Yes
+329,22,Female,Single,Employee,25001 to 50000,Graduate,4,12.8845,77.6036,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Yes
+330,26,Male,Married,Employee,More than 50000,Graduate,4,12.9048,77.6821,Agree,Strongly Agree,Agree,Strongly Agree,Yes
+331,25,Female,Single,Student,No Income,Ph.D,3,12.9048,77.6821,Agree,Strongly Agree,Agree,Agree,Yes
+332,20,Male,Single,Student,No Income,Graduate,2,12.9261,77.6221,Agree,Strongly Agree,Agree,Disagree,Yes
+333,29,Male,Married,Employee,25001 to 50000,Graduate,4,12.9261,77.6221,Agree,Agree,Strongly Agree,Agree,No
+334,23,Female,Single,Student,No Income,Graduate,1,12.977,77.5773,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Yes
+335,25,Male,Single,Self Employeed,More than 50000,Graduate,2,12.9783,77.6408,Agree,Strongly Agree,Agree,Agree,Yes
+336,29,Female,Married,Employee,25001 to 50000,Graduate,4,12.9783,77.6408,Agree,Agree,Disagree,Neutral,No
+337,27,Male,Married,Self Employeed,25001 to 50000,Graduate,6,12.9217,77.5936,Agree,Agree,Agree,Strongly Agree,No
+338,25,Male,Single,Self Employeed,10001 to 25000,Graduate,3,13.0206,77.6479,Agree,Strongly Agree,Agree,Agree,Yes
+339,21,Male,Single,Student,No Income,Graduate,2,13.0012,77.5995,Agree,Strongly Agree,Agree,Strongly Agree,No
+340,23,Male,Single,Student,No Income,Graduate,3,13.0223,77.7132,Agree,Neutral,Agree,Neutral,Yes
+341,24,Female,Single,Employee,10001 to 25000,Post Graduate,4,12.9337,77.59,Neutral,Neutral,Agree,Agree,Yes
+342,22,Male,Married,Self Employeed,10001 to 25000,School,3,12.982000000000001,77.6256,Neutral,Neutral,Neutral,Neutral,Yes
+343,28,Male,Married,Employee,25001 to 50000,Post Graduate,5,13.0262,77.62,Agree,Agree,Disagree,Neutral,Yes
+344,26,Male,Single,Employee,10001 to 25000,Graduate,2,12.9217,77.5936,Agree,Agree,Strongly Agree,Agree,No
+345,22,Female,Single,Employee,25001 to 50000,Graduate,4,12.8845,77.6036,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Yes
+346,26,Male,Married,Employee,More than 50000,Graduate,4,12.9048,77.6821,Agree,Strongly Agree,Agree,Strongly Agree,Yes
+347,25,Female,Single,Student,No Income,Ph.D,3,12.9048,77.6821,Agree,Strongly Agree,Agree,Agree,Yes
+348,20,Male,Single,Student,No Income,Graduate,2,12.9261,77.6221,Agree,Strongly Agree,Agree,Disagree,Yes
+349,29,Male,Married,Employee,25001 to 50000,Graduate,4,12.9261,77.6221,Agree,Agree,Strongly Agree,Agree,No
+350,23,Female,Single,Student,No Income,Graduate,1,12.977,77.5773,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Yes
+351,25,Male,Single,Self Employeed,More than 50000,Graduate,2,12.9783,77.6408,Agree,Strongly Agree,Agree,Agree,Yes
+352,29,Female,Married,Employee,25001 to 50000,Graduate,4,12.9783,77.6408,Agree,Agree,Disagree,Neutral,No
+353,27,Male,Married,Self Employeed,25001 to 50000,Graduate,6,12.9217,77.5936,Agree,Agree,Agree,Strongly Agree,No
+354,25,Male,Single,Self Employeed,10001 to 25000,Graduate,3,13.0206,77.6479,Agree,Strongly Agree,Agree,Agree,Yes
+355,21,Male,Single,Student,No Income,Graduate,2,13.0012,77.5995,Agree,Strongly Agree,Agree,Strongly Agree,No
+356,24,Male,Single,Student,No Income,Post Graduate,2,12.9706,77.6529,Agree,Neutral,Agree,Disagree,Yes
+357,26,Female,Married,Self Employeed,10001 to 25000,Graduate,5,12.9706,77.6529,Agree,Agree,Neutral,Disagree,No
+358,32,Male,Married,Employee,25001 to 50000,Graduate,3,12.9706,77.6529,Agree,Neutral,Agree,Strongly Agree,Yes
+359,29,Male,Single,Self Employeed,More than 50000,Graduate,6,12.8845,77.6036,Agree,Neutral,Agree,Agree,Yes
+360,21,Male,Single,Student,No Income,Graduate,5,12.9783,77.6408,Agree,Neutral,Agree,Strongly Agree,Yes
+361,24,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,13.0103,77.5796,Agree,Neutral,Neutral,Neutral,No
+362,26,Male,Prefer not to say,Self Employeed,More than 50000,Post Graduate,2,13.0103,77.5796,Agree,Agree,Strongly Agree,Agree,Yes
+363,31,Male,Married,Employee,More than 50000,Ph.D,3,12.9306,77.5434,Agree,Neutral,Agree,Disagree,Yes
+364,29,Male,Single,Employee,25001 to 50000,Graduate,3,13.0641,77.5931,Neutral,Agree,Agree,Strongly Agree,No
+365,22,Male,Single,Student,No Income,Graduate,3,13.0158,77.539,Agree,Strongly Agree,Agree,Agree,Yes
+366,24,Male,Single,Student,No Income,Graduate,2,12.9561,77.5921,Agree,Agree,Agree,Neutral,Yes
+367,27,Male,Married,Employee,25001 to 50000,Graduate,2,12.8845,77.6036,Agree,Strongly Agree,Agree,Strongly Agree,Yes
+368,23,Female,Single,Student,No Income,Post Graduate,3,12.9369,77.6407,Agree,Agree,Strongly Agree,Strongly Agree,No
+369,30,Male,Married,Employee,More than 50000,Post Graduate,6,12.9369,77.6407,Agree,Neutral,Agree,Strongly Agree,Yes
+370,22,Female,Single,Student,No Income,Graduate,2,12.9369,77.6407,Agree,Agree,Strongly Agree,Disagree,Yes
+371,28,Male,Married,Employee,25001 to 50000,Graduate,3,12.9369,77.6407,Agree,Strongly Agree,Agree,Strongly Agree,Yes
+372,23,Female,Single,Student,No Income,Post Graduate,2,13.0158,77.539,Agree,Agree,Strongly Agree,Agree,Yes
+373,30,Male,Married,Self Employeed,More than 50000,Graduate,1,13.0809,77.5565,Agree,Agree,Strongly Agree,Agree,No
+374,21,Male,Single,Student,No Income,Graduate,3,13.0641,77.5931,Agree,Agree,Strongly Agree,Agree,Yes
+375,26,Female,Married,Employee,Below Rs.10000,Graduate,6,12.9859,77.6713,Agree,Neutral,Agree,Agree,No
+376,25,Male,Single,Self Employeed,More than 50000,School,3,12.9859,77.6713,Agree,Disagree,Disagree,Disagree,Yes
+377,31,Male,Prefer not to say,Employee,Below Rs.10000,Graduate,1,12.9866,77.4904,Agree,Disagree,Disagree,Agree,No
+378,23,Female,Single,Employee,25001 to 50000,Post Graduate,2,12.9847,77.5491,Agree,Strongly Agree,Strongly Agree,Agree,Yes
+379,22,Male,Single,Student,Below Rs.10000,Post Graduate,4,12.985,77.5533,Agree,Agree,Agree,Agree,Yes
+380,27,Female,Married,Employee,More than 50000,Post Graduate,2,12.9299,77.6848,Neutral,Agree,Neutral,Neutral,Yes
+381,22,Male,Single,Student,No Income,Graduate,3,12.977,77.5773,Agree,Strongly Agree,Disagree,Strongly Agree,Yes
+382,24,Female,Single,Student,No Income,Post Graduate,3,12.9828,77.6131,Agree,Agree,Agree,Disagree,Yes
+383,23,Female,Single,Student,No Income,Post Graduate,2,12.9766,77.5993,Disagree,Disagree,Neutral,Agree,Yes
+384,23,Female,Single,Student,No Income,Post Graduate,4,12.9854,77.7081,Agree,Agree,Agree,Disagree,Yes
+385,22,Female,Single,Student,No Income,Post Graduate,5,12.985,77.5533,Agree,Agree,Strongly Agree,Agree,Yes
+386,23,Male,Single,Student,Below Rs.10000,Post Graduate,2,12.977,77.5773,Strongly Agree,Disagree,Agree,Strongly Agree,Yes
+387,23,Male,Single,Student,No Income,Post Graduate,5,12.8988,77.5764,Agree,Agree,Neutral,Agree,Yes
